@@ -1,8 +1,5 @@
 # Welcome
 
-> [!WARNING]
-> Interactions are currently limited, please read our [info post](https://info.linuxserver.io/issues/2024-08-26-limited-interactions/).
-
 ![Linuxserver](https://github.com/linuxserver/.github/raw/main/branding/logos/Linuxserver-Logo-RGB.png)
 
 ## Building and maintaining community images
